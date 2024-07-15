@@ -1,0 +1,27 @@
+[
+    {
+        "organization": "GeeksForGeeks",
+        "city": "Noida",
+        "country": "India"
+    },
+    {
+        "organization": "ABCD",
+        "city": "Pune",
+        "country": "India"
+    },
+    {
+        "organization": "Microsoft",
+        "city": "Hyd",
+        "country": "India"
+    },
+    {
+        "organization": "Nivedha",
+        "city": "Pune",
+        "country": "India"
+    },
+    {
+        "organization": "Infosys",
+        "city": "Hyd",
+        "country": "India"
+    }
+]
